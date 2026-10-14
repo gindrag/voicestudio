@@ -1,0 +1,9 @@
+name = "voicestudio"
+compatibility_date = "2026-10-14"
+
+# Jika frontend Anda adalah static site (HTML/CSS/JS hasil build):
+[assets]
+directory = "./dist"
+
+# Jika ada Worker code (misal src/index.ts):
+# main = "src/index.ts"
